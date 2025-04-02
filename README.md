@@ -1,0 +1,1 @@
+Since this is the part of github that I find most difficult to bend my head around, I am goin over this skil piece yet agian :) Versio control is terrific. and I have an old site that I want to bring up to date, and I need to review how to do that, since is was over 4 years ago. .
