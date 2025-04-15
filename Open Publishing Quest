@@ -1,0 +1,508 @@
+Open Publishing Quest
+:: Start
+#📚✨ (text-style:"bold","tall")[Welcome to the World of Scholarly Publishing!] ✨📚
+
+You’re standing at the edge of the academic universe, clutching a freshly minted document file. The research is sound. The ideas are brilliant. The citations are solid. The font is… Times New Roman.
+
+✨ What You’ll Learn on This Open Publishing Adventure
+''(text-colour:navy)[Start your journey by clicking any blue highlighted text below]''. You’ll discover:
+
+*What Open Access really means (and why it matters)
+*How to choose the right journal (and avoid the wrong ones 👀)
+*Ways to avoid paying fees to publish your work 💸
+*The role of repositories in making your work accessible
+*How to keep your rights as an author ✍️
+*What tools like ORCID and DOIs do for your scholarly identity 🔗
+*How to spot a predatory publisher (before they spot you)
+
+You don’t need to know everything—just be curious. And feel free to contact librarians at <ahref="mailto:SCLib@uwo.ca">Send email to the Research & Scholarly Communication ibrarians</a>
+We’re here to help you navigate!
+
+##Now what?
+Your goal it to [[get published]] —preferably [[Open Access?]], so the world can read your work freely.
+
+What is [[Open Access?]] 
+
+If you ever have and question about any of this, becuase it is an everchanging and nuanced ecosystem, please feel free to contact the Librarians at <RSCLib@uwo.ca> and we would be delighted to help you!
+
+#🔓 What is Open Access?
+Open Access (OA) makes scholarly research freely available online, with no paywalls—anyone can read, download, and reuse with proper attribution.
+Types of OA:
+• (bg:(hsl:30,0.8039,0.5,0.45))[Gold ](published OA, most often with a fee)
+• (bg:(hsl:120,0.8039,0.5,0.45))[Green] (self-archived in a subject repository or an Institutional repository, like Western Libraries Scholaris)
+•(bg:(hsl:180,0.8039,0.5,0.45))[ Diamond] (free for readers & authors; funded by libraries, scholarly societies, institutions, or funders)
+•(bg:(hsl:0,0,0.5333,0.45))[ Hybrid] (pay for OA in a subscription journal)
+
+🌍 Supports the UN Sustainable Development Goals (SDGs)
+OA advances: SDG 4: Quality Education; SDG 9: Innovation & Infrastructure; SDG 10: Reduced Inequalities; SDG 17: Global Partnerships.  By removing access barriers, OA accelerates knowledge sharing and global collaboration.
+
+⚖️ Promotes Equity
+* Opens research access to underfunded institutions & Global South scholars
+* Your Text HereHelps independent researchers & community groups engage with academic work
+* Encourages inclusive, interdisciplinary, and global knowledge exchange
+
+📈 Citation Advantage
+* OA articles are read and cited more often
+* Increased visibility = more impact
+* Accessible research reaches wider audiences: policymakers, educators, practitioners
+
+[[get published]]
+[[Avoiding  publishing fees (APCs) 💸]]
+
+#💡 Along the way, you'll encounter:
+
+*[[Selecting a journal]]🧐
+*[[Avoiding  publishing fees (APCs) 💸]]
+*[[Author rights (Creative Commons Licences) ✍️]]
+*[[Repositories]], 
+*[[identifiers]], and… 
+*[[predatory pitfalls]] 🕵️‍♀️
+
+*[[ why not just publish your own blog or website?]]
+
+
+#Avoid publishing fees, if you can:
+
+Check if the journal is covered by a transformative agreement → 
+[Western Libraries Journal finder tool](https://www.lib.uwo.ca/scholarship/oasupport.html)
+
+ Is there an Open Access journal with no fees? → Try the [DOAJ](https://doaj.org/)
+
+“The journal is "Gold and charges an APC” →[COAR Directory of Pre-print Servers](https://doapr.coar-repositories.org/repositories/)
+Put the [[Submitted manuscript]] in a pre-print server. Share that DOI on social media.
+
+Put the Accepted Manuscript in the Institutional Repository (IR), [Scholarship@Western] (https\\ir.lib.uwo.ca) is moving to a new software and the new IR will will be known as  Scholaris )
+
+[[Scholarship@Western]]
+When you submit the peer-reveiwed manscript with your final edits to the Journal, also send a copy to the inistutional repostiory. If a version is permitted by the pubisher to be hosted in the IR, we will help you to do that. it makes your paper more findable, more accessible, and therefore more folks will read it, garnering higher impact.
+[[Accepted manuscript]] 
+[[Creative Commons]] 
+[[Scholarship@Western]] 
+📜 Author Rights and Creative Commons Licences
+
+In traditional print publishing, authors were often required to transfer their copyright to the publisher. This meant that even the creator of the work could no longer reuse it in other writings, teaching materials, or online.
+
+Some digital and online publishers still require a copyright transfer, although this isn’t always necessary. Sometimes, it's needed to allow the publisher to distribute or archive the work—but not always.
+
+With Open Access publishing, you typically retain your copyright and gain the right to reuse, remix, and "rebroadcast" your work. This means you can share it in lectures, add it to future publications, or post it on your website or repository.
+
+In many cases, Open Access publishers ask authors to apply a [[Creative Commons]]licence to clarify how others can use the work.
+
+🛠 Understanding Creative Commons Licences
+Creative Commons licences are easy-to-read signals that tell readers what they can and can’t do with your work. Some licences are more open than others:
+
+CC BY – Attribution required (most open)
+
+CC BY-NC – Non-commercial use onl
+
+Creative Commons licenses help readers understand how they can use your work. Some are more open than others.
+You learn:
+* CC BY: Most open
+* CC BY-NC: No commercial use
+* CC BY-ND: No derivatives
+* CC BY-SA: Share alike
+The journal may require a particular licence of you, so always check with their website.
+* Creative Commons Licence chooser : takes you our of this story  URL https://chooser-beta.creativecommons.org/
+Choices:
+ Repositories: Another Path to Open Access
+
+💡 Did you know?  
+Even if you publish in a **subscription-based journal**, you can still make your work Open Access by uploading a version to a **repository**.
+
+### 🗂 Types of Repositories
+
+- **Institutional Repositories**  
+  Hosted by your university library —like [[Scholarship @ Western|https://ir.lib.uwo.ca]]  which is soon migrating to a new software and will be called Scholaris Coming soon!
+  Great for theses, book chapters, and accepted manuscripts.
+
+- **Subject Repositories**  
+  Serve specific disciplines.  
+  Examples:  
+  - [arXiv.org](https://arxiv.org) (physics, math, CS)  
+  -  [knowledge Commons, formerly the  Humanities Commons](https://works.hcommons.org/search?q=&l=list&p=1&s=10&sort=newest)
+  - [SocArXiv](https://osf.io/preprints/socarxiv/) (social sciences)
+
+- **General Repositories**  
+  Accept many types of content from any field.  
+  Examples:  
+  - [Zenodo](https://zenodo.org)  
+  - [OSF Preprints](https://osf.io/preprints/)  
+  - [Figshare](https://figshare.com)
+
+🔎 **Find one:**  
+Browse global repositories using the [COAR Directory](https://doapr.coar-repositories.org/repositories/)
+---
+
+### 📄 What version can I deposit?
+[[📄 Version Matters]] 
+
+#Persistent Identifiers (PIDs), such as ORCID
+
+🔗 **What are Persistent Identifiers (PIDs)?**
+
+PIDs are unique, permanent codes assigned to digital things—like researchers, articles, datasets, or institutions. They help systems (and people!) track, link, and credit research accurately.
+
+### 🧾 Common PIDs in Academia:
+- **DOI** (Digital Object Identifier):  
+  A permanent link to a paper, dataset, or book.  
+  Example: <DOI: 10.7287/peerj.preprints.3119v1>
+
+- **ORCID iD** (Open Researcher & Contributor ID):  
+  A unique identifier for *you*, the researcher.  
+  Example: <https://orcid.org/0000-0002-1825-0097>
+  
+That’s where ORCID comes in—a free, unique researcher ID that stays with you through name changes, moves, promotions, and new publications. Major publishers, funders, and research institutions have adopted this international standard to support improved data exchange between scholarly research platforms and information systems.
+---
+### 🔥 Why ORCID is a good thing for YOU:
+
+ **Get Credit for Your Work**  
+No more name confusion—ORCID ensures your work is linked to *you*, not someone with a similar name.
+
+ **Make Submissions Easier**  
+Many journals and grant applications let you sign in with ORCID to auto-fill your details. Less admin, more research.
+
+ **Build a Trusted Profile**  
+ORCID is used by publishers, funders, and repositories around the world. It's recognized as the gold standard for researcher identity.
+
+ **Connect Once, Reuse Often**  
+Link it to Scopus, Dimensions, Web of Science, Google Scholar—even your university systems—to sync your publications and autopoulate your profile.  That makes makingnan updated CV easy peasey!
+
+ **Required by Funders**  
+CIHR, NSERC, and SSHRC all recommend  ORCID iDs for grant applications.
+---
+🎁 Bonus: You own your ORCID profile. It’s non-profit, open, and under your control.
+
+🔗 [Get your ORCID iD today](https://guides.lib.uwo.ca/research-impact/orcid)  
+It takes 30 seconds and lasts a lifetime. ( the profile building takes a bit longer. . .)
+[[Selecting a journal]] 
+#🚩 How to Spot a Predatory Publisher
+❗ Red Flags (aka the "Tells")
+1. Aggressive Email Solicitation
+
+“Dear esteemed researcher, we read your excellent paper in [journal you never published in] and would love for you to submit your latest work...”
+Be wary of flattering emails that sound generic or overly enthusiastic.
+
+2. No Peer Review or Unrealistically Fast Turnaround
+📅 If they promise peer review in 2 days, it's not real peer review.
+Legit journals take time—weeks or months.
+
+3. Vague or Missing Editorial Board
+👀 Check the journal’s editorial board. Are there actual experts listed? Can you verify their credentials or affiliations?
+❌ If there are no names or fake-looking profiles, big red flag.
+
+4. Poor Website Quality
+🖥️ Bad grammar, broken links, fuzzy logos, or an outdated design = low effort = low credibility.
+Professional, well-maintained sites are the norm for reputable journals.
+
+5. Article Processing Charges (APCs) that Aren’t Clearly Stated
+💸 Hidden fees or surprise charges after acceptance? That’s a predatory move.
+Good journals are upfront about costs—if any.
+
+6. Indexing Claims that Don’t Add Up
+🔍 They might say they’re in Scopus or Web of Science—but are they really?
+ Cross-check in the actual database (not just on the journal’s site).
+Check DOAJ for legitimate open access journals.
+
+7. Fake Impact Factors
+📈 Predatory journals sometimes cite made-up metrics (e.g., “Global Impact Factor”) instead of real ones like Clarivate’s Journal Impact Factor.
+Look for legit metrics from credible sources.
+
+8. Poor Quality or Irrelevant Articles
+📝 If past articles seem unrelated, shallow, or clearly unedited, steer clear.
+A quick browse can reveal a lot.
+---
+✅ What to Look For Instead
+Indexed in DOAJ,  Scopus, or Web of Science
+
+Transparent peer-review process
+
+Clear author guidelines and ethical policies
+
+Recognizable, reputable publisher (e.g., Springer, Wiley, Elsevier, university press)
+
+Clear APC info (or none at all, in the case of diamond open access)
+[[Selecting a journal]] 
+
+💡 Pro Tip
+When in doubt, ask your librarian <RSCLib@uwo.ca>
+They can help you vet a journal using tools like Cabells, Ulrichsweb, and subject databases.
+the Internet was invented to share information! You decide to take matters into your own hands and share your research on your personal blog. It’s fast, it's yours, and you can style it however you want. 🌐✨
+
+But before you hit "publish," consider the trade-offs:
+
+**✅ Pros:**
+- Instant publication—no delays, no gatekeeping.
+- Boosts visibility to non-academic audiences.
+- You control the format and narrative.
+- Great for sharing early results, infographics, or reflections.
+- Can attract attention on social media and lead to collaborations.
+- Helps build your personal academic brand.
+
+**❌ Cons:**
+- Not peer reviewed and May not count for tenure, grants, or official outputs.
+- Unlikely to be  indexed in academic databases (so… no citation count bump).
+- Your website might vanish someday—no guarantee of long-term access.
+
+**🛠 Pro Tips:**
+- Put your manuscript in a subject based preprint server
+- Add your ORCID iD and link to your formal publications.
+- Archive your post with tools like [Perma.cc](https://perma.cc) or [Internet Archive](https://archive.org/web/).
+- Want a DOI? Try uploading a version to [Zenodo.org](https://zenodo.org) or [Figshare.com](https://figshare.com).
+
+You’ve taken the bold DIY route! Keep building your digital presence and stay transparent about your research journey.
+
+* [[get published]] 
+* [[Open Access?]] 
+* [[Repositories]] 
+* [[identifiers]] 
+📄 Version Matters
+There are usually three versions of your article:
+ 
+
+* Submitted manuscript  (pre-peer review)
+* Accepted manuscript (post-peer review, pre-layout)
+* Finall Copy edited pdf (Version of Record, or VoR)
+
+Check with the journal to see what the regulations permit you to do with  the 
+[[Submitted manuscript]]
+the [[Accepted manuscript]]
+and the [[Final Copy edited pdf]]
+
+It depends. do you still hold copyright  or did you sign then away to the pubisher?
+
+
+if you are still considering which journal to publsih in and watt to understand policies beofre you chose try searching for the title, or the pblisher in this tool
+
+[Open Policy finder]
+(https://openpolicyfinder.jisc.ac.uk/)
+     Helping authors and institutions to make informed and confident decisions in open access publication and compliance. Formerly Sherpa services.
+#Submitted manuscript  //(pre-peer review)//
+* Your submitted manuscript in most cases can become preprint and be hosted on a preprint server
+* Copyright is owned by you  
+Use a CC licence to reinforce that claim and remind folks of attribution requirements
+Preprint servers will give you a DOI and now will link to the final published version, too
+
+How can I check if I am allowed to send my submitted manuscript to a preprint server?
+
+Review the journal or publisher policies pages. It may be under on self archiving, open access guidelines, or copyright. it differs from jounrnal to journal. For exampe, elsevier has a pociy section , with a subsection  called //Journal article sharing//
+
+Elsevier for examples says that "Authors can share their preprint anywhere at any time" and "If accepted for publication, we encourage authors to link from the preprint to their formal publication via its Digital Object Identifier (DOI)"
+
+Where can I find pre print servers?
+[Directory of Open Access Preprint Repositories]
+(https://doapr.coar-repositories.org/repositories/)
+
+some examples:
+Physics, Math, Computer Science	[arXiv]	(https://arxiv.org)
+[OSF Preprints](https://osf.io/preprints/)
+Humanities	[knowledge commons] (https://hcommons.org/deposits)
+Psychology [PsyArXi] (https://psyarxiv.com/)
+Law[LawArXiv]	(https://osf.io/preprints/lawarxiv/)
+Engineering[engrXiv](https://engrxiv.org/)
+Education[EdArXiv]	(https://edarxiv.org/)
+
+[[📄 Version Matters]] 
+#Accepted manuscript 
+
+The accepted manuscript , also known a s a post-print, has been peer reviewed.
+It usually can be shared in an institutional repository , like Western Libraries' Scholaris ( coming soon to replace Scholarship@Western.
+This will meet funder open access requirements.
+It may have an embargo period.
+There is no cost to the authors to use the IR
+You may need to use a specific CC licence
+You ame have to link to the Final copy via the DOI
+Always check to see if it is permitted (send a not to the librariasn at RSCLib@uwo.ca OR 
+check [Jisc's open policy finder ] https://openpolicyfinder.jisc.ac.uk/
+
+[[Scholarship@Western]] 
+[[Final Copy edited pdf]] 
+[[identifiers]] 
+[[Social media]]
+#Final published version, some tiem caled the version of record
+* Publisher PDF
+* Final copy edited version , with publisher logo
+* PDF HTMLXML formats
+* DOI form the journal
+* Publisher holds copyright  if it closed access; usually you cannot share unless it is Open Access ( which MAY involve paying an APC)
+[[📄 Version Matters]] 
+🛠 Understanding Creative Commons Licences
+
+Creative Commons licences are easy-to-read signals that tell readers what they can and can’t do with your work. Some licences are more open than others:
+
+CC BY – Attribution required (most open)
+
+CC BY-NC – Non-commercial use onl
+
+Creative Commons licenses help readers understand how they can use your work. Some are more open than others.
+You learn:
+* CC BY: Most open
+* CC BY-NC: No commercial use
+* CC BY-ND: No derivatives
+* CC BY-SA: Share alike
+
+The journal may require a particular licence of you, so always check with their website.
+* Creative Commons Licence chooser : takes you our of this story  URL https://chooser-beta.creativecommons.org/
+
+[[Selecting a journal]] 
+[[Avoiding  publishing fees (APCs) 💸]] 
+[[Repositories]] 
+📄 **How do you choose where to publish your research?**
+
+Here are some trusted approaches:
+
+🧠 **Ask the experts**  
+- Your **supervisor** or co-authors  
+- **Peers** in your department  
+- An academic **librarian** (seriously, they know things!)
+
+🔍 **Use Journal Finder Tools**  
+- [JANE – Journal/Author Name Estimator](https://jane.biosemantics.org/)  
+- [Enago Journal Finder](https://www.enago.com/researcher-hub/journal-finder.htm)  
+- [DOAJ – Directory of Open Access Journals](https://doaj.org/)
+-Browzine is an awesome tool for discovering academic journals by subject area
+click [[Browzine]] to learn more
+
+✅ **Compare journals based on:**  
+- Topic fit and audience  
+- Peer review and publication speed  
+- Article Processing Charges (APCs)  
+- Author rights and copyright retention  
+- Openness (subscription vs. open access)
+---
+*Once you've picked a journal...*  
+[[📄 Version Matters]] 
+[[identifiers]] 
+[[Repositories]] 
+[[Creative Commons]] 
+#🔎 How to Use BrowZine to Find Journals in Your Field (to publish in!)
+###✅ Step-by-step:
+
+* Go to BrowZine at Western
+(That’s the Western Libraries portal—no login needed on campus!)
+
+* Your Text HereBrowse by Subject
+On the left, click "Browse Subjects." You'll see a breakdown by broad disciplines (e.g., Social Sciences, Health Sciences, Humanities, Engineering).
+
+* Narrow Down
+Click on your field—e.g., “Library & Information Science” → “Scholarly Publishing”
+You’ll get a visual bookshelf of journals in that area.
+
+* Check Details
+Click on a journal cover to:
+
+* View Aims & Scope
+See recent articles and impact
+
+* Follow links to the publisher’s site or submission guidelines
+
+* Make a Shortlist
+If you see journals publishing work similar to yours, bookmark them or make a list to explore further (e.g., on DOAJ or the publisher site).
+
+📌 Tips for Publishing Use
+Use BrowZine as a discovery tool, then go to the journal’s website to review submission guidelines, APCs, and peer review practices.
+
+[[Selecting a journal]]  
+[[Avoiding  publishing fees (APCs) 💸]] 
+#Scholarship@Western
+Put the Accepted Manuscript in the Institutional Repository (IR), [Scholarship@Western] (https\\ir.lib.uwo.ca) is moving to a new software and the new IR will will be known as  Scholaris )
+
+The accepted manuscript in the IR meets most funder requirements for Open Access.
+
+When you submit the peer-reveiwed manscript with your final edits to the Journal, also send a copy to the inistutional repostiory. If a version is permitted by the pubisher to be hosted in the IR, we will help you to do that. it makes your paper more findable, more accessible, and therefore more folks will read it, garnering higher impact.
+[[Accepted manuscript]] 
+[[Creative Commons]] 
+
+###About Scholaris
+Western Libraries has joined the new national shared repository service, Scholaris. This means that the institutional repository, Scholarship@Western will be migrating to a new platform. It will move from its current bepress/Digital Commons platform to a Scholaris-hosted DSpace instance, supported by Scholars Portal by June 30, 2025.
+
+The repository will be re-branded as Western Scholaris and users will notice some changes as part of the migration process. For example, there will be a new streamlined interface with a refined collections hierarchy.
+
+With this move, the repository’s scope will be more tightly focused on making open access content publicly available. This means that some metadata-only content will not be migrated. Other content, such as image archives or digital scholarship projects, will be moved to platforms other than DSpace. To facilitate these various moves, that content will remain on the current Scholarship@Western platform for the next year or so, likely until early 2026.
+
+If you are an administrator of a collection in the current Scholarship@Western platform, please continue that work as-is. As we learn more and get closer to the migration date, one of the migration team members will be in touch with more specific information about how your project will be affected.
+
+We will be sharing additional project milestones and updates as we move closer to our go live date. We appreciate your support and patience during this transition.
+
+Please direct any questions, comments, or concerns about the repository migration to the Research & Scholarly Communications Team at rsclib@uwo.ca.
+#Sharing via Social Media Sites
+
+📣 You’re proud of your work and want to share it with the world. Social media can be a powerful way to boost visibility—but there are a few things to know first.
+---
+### 🔗 As a colleague of mine likes to say:  
+**“Links are free! (At least... they haven’t monetized them yet.)”**
+
+You are absolutely allowed to share **article metadata** on social media platforms like Twitter/X, LinkedIn, Mastodon, BLuesky, Threads, or even Instagram:
+
+✅ Title
+✅ Author(s)
+✅ Journal name
+✅ DOI or permalink
+
+**Sharing a link** to your article (or its version in a repository) helps readers find it *legally and ethically*.
+---
+### 📰 What about sharing the article itself?
+
+ ✅ If it’s in an **Open Access journal**, go ahead and share the full-text link (or PDF if the licence allows).
+-✅ If your article is in a **repository**, you can safely share the link to the **accepted manuscript** or **preprint**—check the version you uploaded!
+
+- ⚠️ If it’s the **final publisher PDF** from a subscription journal—hold up! That might break copyright.
+
+Check the publisher’s sharing policy or use [JISC open policy finder](https://openpolicyfinder.jisc.ac.uk/) to confirm what version you can legally post. or ask you friendly neighbourhood librarian.
+---
+### ⚠️ What about ResearchGate or Academia.edu?
+
+- These are **academic social networks**, not repositories.
+- ❌ They are **not considered Open Access** by most funders.
+- ❌ They are **for-profit** platforms that may monetize your data and your PDFs.
+- ⚠️ Many publishers have issued takedown notices for unauthorized uploads.
+
+👋 So post your **metadata and links**, not your final PDFs.
+
+---
+[[Congratulations]]
+# 🎓 The End (And a New Beginning!)
+
+🎉 HUZZAH! 🎉  
+You’ve navigated the choppy waters of scholarly publishing like a pro!
+
+Whether you:
+✅ Got your article published (and maybe even Open Access!)  
+✅ Shared your accepted manuscript in a repository like [[Scholaris]]  
+✅ Retained your rights with a Creative Commons licence  
+✅ Used persistent identifiers like ORCID and DOIs  
+✅ Spread the word ethically across the internet...
+
+—you’ve done it with savvy, strategy, and style.
+
+This journey isn’t just about *one* paper—it’s about building your voice, your presence, and your place in the global research community on the web. 🌍📚
+---
+### 🏅 You’re a Publishing Pathfinder!
+Now go forth and:
+🔗 Keep sharing your work  
+📬 Keep asking questions  
+💡 Keep learning  
+🧭 And help others find their way too
+
+If you ever need a hand, a reference, or a librarian who cheers wildly when you say “metadata,” you know where to find us:  
+**📧 [RSCLib@uwo.ca](mailto:rsclib@uwo.ca)**
+
+---
+
+🎊 *Congratulations! You've completed your Open Publishing Quest.*  
+📘 [[Welcome to the World of Scholarly Publishing! ✨📚]]  [[Exit]]
+#Elevating Open Access and Useability: Scholarship@Western's Transition to Scholaris
+Published on March 24, 2025
+
+Western Libraries has joined the new national shared repository service, Scholaris. This means that the institutional repository, Scholarship@Western will be migrating to a new platform. It will move from its current bepress/Digital Commons platform to a Scholaris-hosted DSpace instance, supported by Scholars Portal by June 30, 2025.
+
+The repository will be re-branded as Western Scholaris and users will notice some changes as part of the migration process. For example, there will be a new streamlined interface with a refined collections hierarchy.
+
+With this move, the repository’s scope will be more tightly focused on making open access content publicly available. This means that some metadata-only content will not be migrated. Other content, such as image archives or digital scholarship projects, will be moved to platforms other than DSpace. To facilitate these various moves, that content will remain on the current Scholarship@Western platform for the next year or so, likely until early 2026.
+
+If you are an administrator of a collection in the current Scholarship@Western platform, please continue that work as-is. As we learn more and get closer to the migration date, one of the migration team members will be in touch with more specific information about how your project will be affected.
+
+We will be sharing additional project milestones and updates as we move closer to our go live date. We appreciate your support and patience during this transition.
+
+Please direct any questions, comments, or concerns about the repository migration to the Research & Scholarly Communications Team at rsclib@uwo.ca.
+[[Scholarship@Scholarship@Western]] 
+#(align:"=><=")+(box:"X=")[ -30-]
