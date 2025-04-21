@@ -1,0 +1,119 @@
+:: Start
+You’ve finally finished your manuscript—hooray! 🎉 Now, it’s time to share it with the world. But how? And where? You want your work to be widely read, maybe even reused and cited. Ideally, Open Access... but how?
+
+What’s your top priority?
+
+[[Reach the widest audience (open access)|OA Goals]]
+[[Publish in a specific journal (prestige matters)|Prestige Path]]
+[[Avoid paying publishing fees (budget's tight)|Diamond Dig]]
+
+:: OA Goals
+You want people to read your work—no paywalls, no restrictions.
+
+You check the Directory of Open Access Journals (DOAJ) and find a few promising candidates.
+
+[[Submit to a journal listed in DOAJ|Check APCs]]
+[[Go back and choose another path|Start]]
+
+:: Check APCs
+The journal is fully open access... but they charge an Article Processing Charge (APC). You’ll need to pay to publish.
+
+Do you have funding?
+
+[[Yes – I have a grant |Funded Path]]
+[[No – I need a journal with no APCs (diamond OA)|Diamond Dig]]
+
+:: Diamond Dig
+You discover a journal that’s fully open access *and* free to publish in! 🥳 It's part of the diamond OA landscape—funded by libraries, consortia, or societies.
+
+You submit, and your article is accepted. Congratulations, scholar! You’ve published open access with no fees to you or your readers.
+
+[[Play again?|Start]]
+
+:: Prestige Path
+You’ve got a target journal in mind—one your mentor loves and everyone in your field reads. But it’s not open access by default.
+
+You check the journal's policies using [Jisc's Open Policy Finder](https://openpolicyfinder.jisc.ac.uk) and learn that:
+
+[[You can pay to make it open (Hybrid OA)|Check APCs]]
+[[You can deposit your Accepted Manuscript in a repository (Green OA)|Green Win]]
+[[You cannot share at all – rethink your journal? 😬|Start]]
+
+:: Green Win
+You publish in your target journal and upload the accepted manuscript to your institution’s repository. It’s free, legal, and discoverable!
+
+Green Open Access FTW! 🎉
+
+[[Play again?|Start]]
+
+:: Funded Path
+You use grant money or library support to cover the APC. Your article is published fully open access and is available to readers around the world.
+
+Success!
+
+[[Play again?|Start]]
+
+:: Deposit & Share
+Your article is published! Now let’s make sure people can find it.
+
+- 📥 **Deposit in a repository**:
+  - **Institutional**: [Western Scholaris](https://scholaris.ca) *(formerly Scholarship@Western)*
+  - **Subject-specific**: [arXiv](https://arxiv.org), [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/)
+
+- 🔗 Use [ShareYourPaper.org](https://shareyourpaper.org) to upload legally and check your sharing rights.
+
+- 📨 Need help figuring out what version you can share and where?
+  Email the **Research & Scholarly Communication Team**: [rsclib@uwo.ca](mailto:rsclib@uwo.ca). We’ll help you check your publisher’s policies, embargo periods, and see if your AAM can be deposited.
+
+- 🆓 Even if the article is closed, you can always link to it with the DOI. Links are free!
+
+[[Back to your quest|Start]]
+
+:: Predatory Pitfall 🕳️ [hidden]
+🚨 You’re deep into the publishing jungle when a flashy journal appears...
+
+"Publish in 48 hours!" it cries. "Just $1,299 (USD)!" 🤑
+
+Before you hit *Submit*, a friendly librarian in stylish red glasses zips in, trumpet slung over her shoulder. 🎺
+
+**BiblioJo whispers:**  
+"That journal's got more red flags than a marching band. Let’s take a closer look."
+
+🚩 **How to Spot a Predatory Publisher**
+
+❗ **Red Flags (aka the 'Tells'):**
+
+1. **Aggressive Email Solicitation**  
+   _“Dear esteemed researcher, we read your excellent paper in [journal you never published in]...”_
+
+2. **No Peer Review or Unrealistically Fast Turnaround**  
+   📅 Peer review in 2 days? That’s not how real science works.
+
+3. **Vague or Missing Editorial Board**  
+   👀 Can you *verify* the names and affiliations? If not, beware.
+
+4. **Poor Website Quality**  
+   🖥️ Typos, broken links, blurry logos = 🚫
+
+5. **Hidden or Dodgy APCs**  
+   💸 Surprise charges after acceptance = classic predatory move.
+
+6. **Dubious Indexing Claims**  
+   🔍 Always verify indexing in Scopus, DOAJ, or Web of Science.
+
+7. **Fake Impact Factors**  
+   📈 “Global Impact Factor 97” is not a real metric. Look for trusted sources.
+
+8. **Low-Quality or Irrelevant Content**  
+   📝 Shallow, unrelated articles are a red flag.
+
+✅ **What to Look For:**
+- Indexed in [DOAJ](https://doaj.org), [Scopus](https://www.scopus.com), or [Web of Science](https://mjl.clarivate.com/)
+- Transparent peer-review and ethical policies
+- Recognized publisher (university press, Springer, etc.)
+- Clear or no APCs (💎 hello, Diamond OA!)
+
+💡 **Pro Tip:**  
+Ask your librarian at [rsclib@uwo.ca](mailto:rsclib@uwo.ca)—they can help vet journals using Cabells, Ulrichsweb, and pure librarian instinct.
+
+[[Back to your quest|Start]]
